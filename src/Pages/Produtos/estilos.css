@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+.produto{
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}

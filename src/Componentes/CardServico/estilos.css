@@ -1,0 +1,39 @@
+.card{
+    background-color: blueviolet;
+    width: 200px;
+    height: 130px;
+    display: flex;  
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+    margin: 15px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+.list{
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+.list li{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    list-style: none;
+    text-align: center; 
+    margin: 0;   
+}
+button{
+    margin-top: 15px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: black;
+    color: white;
+}
