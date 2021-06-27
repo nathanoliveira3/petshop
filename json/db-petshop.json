@@ -1,0 +1,51 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Shampoo para gatos",
+      "preco": 29.9
+    },
+    {
+      "id": 2,
+      "nome": "Shampoo para cães",
+      "preco": 39.9
+    },
+    {
+      "id": 3,
+      "nome": "Bola de lã",
+      "preco": 9.9
+    },
+    {
+      "id": 4,
+      "nome": "Bola de plástico",
+      "preco": 9.9
+    },
+    {
+      "id": 5,
+      "nome": "Ração para gatos",
+      "preco": 39.9
+    },
+    {
+      "id": 6,
+      "nome": "Ração para cães",
+      "preco": 39.9
+    }
+  ],
+  "servicos": [
+    {
+      "id": 1,
+      "nome": "Banho",
+      "preco": 39.9
+    },
+    {
+      "id": 2,
+      "nome": "Tosa",
+      "preco": 39.9
+    },
+    {
+      "id": 3,
+      "nome": "Banho e tosa",
+      "preco": 79.9
+    }
+  ]
+}
